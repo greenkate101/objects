@@ -80,7 +80,6 @@ var people = [
 
 //1
 
-
 for (var i = 0; i < people.length; i++) {
 		people[i].children.push({
 			firstName: 'Ashton',
